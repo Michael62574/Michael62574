@@ -74,7 +74,7 @@
 </div>
 
 ---
-
+<!-- 
 ### 🏆 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** |
@@ -84,6 +84,7 @@
 | [📊 Sentiment Analysis Pipeline](#) | Big data processing pipeline for financial sentiment analysis using Hive/Spark | `Hadoop` `Hive` `Spark` |
 
 > *💡 Tip: More projects coming soon. Feel free to check the pinned repositories below!*
+-->
 
 ---
 
@@ -97,6 +98,6 @@
   
   <br/>
   
-  ![Visitor Count](https://profile-counter.glitch.me/Michael62574/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Michael62574&label=Profile%20Views&color=0e75b6&style=flat-square)
   
 </div>
